@@ -39,6 +39,7 @@ header ul{
 
 header ul li{
     margin: 0px 10px;
+    font-size: medium;
 }
 
 .fa-phone,
@@ -50,7 +51,7 @@ header ul li{
 
 
 article h1{
-    font-weight: 300;
+    font-weight:normal;
     font-size:large;
     margin: 1px;
     font-style: normal;
@@ -75,7 +76,7 @@ section{
 }
 
 article h2{
-    font-weight: 700;
+    font-weight: bold;
     font-size: large;
     margin:5px 0px;
     font-style: normal;
@@ -83,21 +84,17 @@ article h2{
 
 .education{
     font-style: italic;
+    font-size:medium;
 }
 
 em{
-    font-weight: 600;
+    font-weight: bold;
     font-style: normal;
 }
 
-.education em{
-    font-weight: 600;
-}
-
-
 .experience h3{
     font-style: italic;
-    font-weight: 100;
+    font-weight: lighter;
     font-size: medium;
     margin: 1px 0px;
 }
